@@ -1,0 +1,15 @@
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\bin\Debug\sdetCourse.dll
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\bin\Debug\sdetCourse.pdb
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\obj\Debug\sdetCourse.csproj.AssemblyReference.cache
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\obj\Debug\sdetCourse.csproj.CoreCompileInputs.cache
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\obj\Debug\sdetCourse.csproj.CopyComplete
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\obj\Debug\sdetCourse.dll
+C:\Users\roberto.gonzalez\source\repos\sdetCourse\sdetCourse\obj\Debug\sdetCourse.pdb
